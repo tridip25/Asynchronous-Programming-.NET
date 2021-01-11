@@ -1,0 +1,14 @@
+C:\Users\Tridip\source\repos\AsyncAwaitBasic1\AsyncAwaitBasic1\bin\Debug\AsyncAwaitBasic1.exe.config
+C:\Users\Tridip\source\repos\AsyncAwaitBasic1\AsyncAwaitBasic1\bin\Debug\AsyncAwaitBasic1.exe
+C:\Users\Tridip\source\repos\AsyncAwaitBasic1\AsyncAwaitBasic1\bin\Debug\AsyncAwaitBasic1.pdb
+C:\Users\Tridip\source\repos\AsyncAwaitBasic1\AsyncAwaitBasic1\obj\Debug\AsyncAwaitBasic1.csprojAssemblyReference.cache
+C:\Users\Tridip\source\repos\AsyncAwaitBasic1\AsyncAwaitBasic1\obj\Debug\AsyncAwaitBasic1.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\source\repos\AsyncAwaitBasic1\AsyncAwaitBasic1\obj\Debug\AsyncAwaitBasic1.exe
+C:\Users\Tridip\source\repos\AsyncAwaitBasic1\AsyncAwaitBasic1\obj\Debug\AsyncAwaitBasic1.pdb
+D:\MY_folder\innRoad\Getting Started with Asynchronous Programming in .NET\AsyncAwaitBasic1\AsyncAwaitBasic1\bin\Debug\AsyncAwaitBasic1.exe.config
+D:\MY_folder\innRoad\Getting Started with Asynchronous Programming in .NET\AsyncAwaitBasic1\AsyncAwaitBasic1\bin\Debug\AsyncAwaitBasic1.exe
+D:\MY_folder\innRoad\Getting Started with Asynchronous Programming in .NET\AsyncAwaitBasic1\AsyncAwaitBasic1\bin\Debug\AsyncAwaitBasic1.pdb
+D:\MY_folder\innRoad\Getting Started with Asynchronous Programming in .NET\AsyncAwaitBasic1\AsyncAwaitBasic1\obj\Debug\AsyncAwaitBasic1.csprojAssemblyReference.cache
+D:\MY_folder\innRoad\Getting Started with Asynchronous Programming in .NET\AsyncAwaitBasic1\AsyncAwaitBasic1\obj\Debug\AsyncAwaitBasic1.csproj.CoreCompileInputs.cache
+D:\MY_folder\innRoad\Getting Started with Asynchronous Programming in .NET\AsyncAwaitBasic1\AsyncAwaitBasic1\obj\Debug\AsyncAwaitBasic1.exe
+D:\MY_folder\innRoad\Getting Started with Asynchronous Programming in .NET\AsyncAwaitBasic1\AsyncAwaitBasic1\obj\Debug\AsyncAwaitBasic1.pdb
