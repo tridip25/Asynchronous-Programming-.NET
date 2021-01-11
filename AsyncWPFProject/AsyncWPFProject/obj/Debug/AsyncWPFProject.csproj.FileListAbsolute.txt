@@ -1,0 +1,15 @@
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\obj\Debug\AsyncWPFProject.csprojAssemblyReference.cache
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\obj\Debug\MainWindow.g.cs
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\obj\Debug\App.g.cs
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\obj\Debug\AsyncWPFProject_MarkupCompile.cache
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\obj\Debug\AsyncWPFProject_MarkupCompile.lref
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\bin\Debug\AsyncWPFProject.exe.config
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\bin\Debug\AsyncWPFProject.exe
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\bin\Debug\AsyncWPFProject.pdb
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\obj\Debug\MainWindow.baml
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\obj\Debug\AsyncWPFProject.g.resources
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\obj\Debug\AsyncWPFProject.Properties.Resources.resources
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\obj\Debug\AsyncWPFProject.csproj.GenerateResource.cache
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\obj\Debug\AsyncWPFProject.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\obj\Debug\AsyncWPFProject.exe
+C:\Users\Tridip\source\repos\AsyncWPFProject\AsyncWPFProject\obj\Debug\AsyncWPFProject.pdb
