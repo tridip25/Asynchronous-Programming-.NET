@@ -1,0 +1,7 @@
+C:\Users\Tridip\source\repos\ParallelForloop\ParallelForloop\bin\Debug\ParallelForloop.exe.config
+C:\Users\Tridip\source\repos\ParallelForloop\ParallelForloop\bin\Debug\ParallelForloop.exe
+C:\Users\Tridip\source\repos\ParallelForloop\ParallelForloop\bin\Debug\ParallelForloop.pdb
+C:\Users\Tridip\source\repos\ParallelForloop\ParallelForloop\obj\Debug\ParallelForloop.csprojAssemblyReference.cache
+C:\Users\Tridip\source\repos\ParallelForloop\ParallelForloop\obj\Debug\ParallelForloop.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\source\repos\ParallelForloop\ParallelForloop\obj\Debug\ParallelForloop.exe
+C:\Users\Tridip\source\repos\ParallelForloop\ParallelForloop\obj\Debug\ParallelForloop.pdb
